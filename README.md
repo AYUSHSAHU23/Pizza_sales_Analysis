@@ -72,7 +72,9 @@ Based on the analyzation, I have gained several valuable insights into the pizza
 
 If you found this pizza sales analysis project helpful or interesting, please consider giving it a ⭐️. Your support is greatly appreciated!
 
+# Output
+![Screenshot 2024-03-29 165428](https://github.com/AYUSHSAHU23/Pizza_sales_Analysis/assets/121926434/3801d975-5460-46cc-9787-a9c3bd96e862)
 
 
 
-
+![Screenshot 2024-03-29 165413](https://github.com/AYUSHSAHU23/Pizza_sales_Analysis/assets/121926434/4dafa727-e3c4-487b-a140-290f2a107fc2)
